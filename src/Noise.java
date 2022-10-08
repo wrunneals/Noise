@@ -19,7 +19,7 @@ public class Noise{
 				bi.setRGB(x, y, new Color((float) noiseVal, (float) noiseVal, (float) noiseVal).getRGB());
 			}
 		}
-		File f = new File("output.png");
+		File f = new File("../output.png");
 		try{
 			ImageIO.write(bi, "png", f);
 		}
