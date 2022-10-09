@@ -6,6 +6,8 @@ Uses multiple layers of Simplex Noise to create more natural looking/smoother no
 <img src="/res/fbm.png" alt="Fractal Brownian Motion" width = 400 />
 
 ### Domain Distortions
-Layers fbm whiles adding small distortions (there are more than a few ways to achive this). Number of layers can be varied to produce natural to abstract noise fields.
-<img src="/res/domain1.png" alt="One Layer of Distortion" width = 300 />
-<img src="/res/domain2.png" alt="Two Layers of Distortion" width = 300 />
+Layers fbm whiles adding small distortions (there are more than a few ways to achive this). Number of layers can be varied to produce natural (marble like) to abstract looking noise fields.
+
+<img src="/res/domain1.png" alt="One Layer of Distortion" width = 400 />
+
+<img src="/res/domain2.png" alt="Two Layers of Distortion" width = 400 />
